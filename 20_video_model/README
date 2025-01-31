@@ -1,1 +1,6 @@
-Videos demonstrating our autonomous robot dishwasher. Each filename has a configuration of bowls and plates in the sink in the order top_left,top_right,bottom_left,bottom_right. This is followed by the total minutes of videos the model was trained on. The unseen vs seen means the configuration was not in training videos vs configuration was in training videos. Even if a configuration occurs in the training videos it isn't exactly the same when we do inference on it. The 500_n20 are model parameters to be ignored.
+Videos demonstrating our autonomous robot dishwasher. 
+Each filename has a configuration of bowls and plates in the sink in the order top_left,top_right,bottom_left,bottom_right. 
+This is followed by the total minutes of videos the model was trained on. 
+The unseen vs seen means the configuration was not in training videos vs configuration was in training videos. 
+Even if a configuration occurs in the training videos it isn't exactly the same when we do inference on it. 
+The 500_n20 are model parameters to be ignored.
